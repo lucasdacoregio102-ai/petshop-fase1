@@ -1,0 +1,1 @@
+Projeto da Fase 1 da disciplina de Sistemas Web. Trata-se do front-end inicial de um PetShop, construído apenas com HTML semântico, contendo o catálogo de produtos (acessórios, rações e higiene) e serviços de banho e tosa.
